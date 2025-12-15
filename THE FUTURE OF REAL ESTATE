@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Xcavate – Tokenized Digital Real Estate</title>
+  <style>
+    /* Couleurs Xcavate (exemple : bleu et violet dégradé) */
+    :root {
+      --primary-color: #4A00E0;
+      --secondary-color: #8E2DE2;
+      --text-color: #ffffff;
+      --background-color: #121212;
+      --accent-color: #00FFC3;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--background-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+      padding: 2rem;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    section {
+      padding: 2rem 5%;
+    }
+
+    h2 {
+      color: var(--accent-color);
+      margin-top: 2rem;
+    }
+
+    h3 {
+      color: var(--accent-color);
+      margin-top: 1.5rem;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin: 0.5rem 0;
+      padding-left: 1.5rem;
+      position: relative;
+    }
+
+    ul li::before {
+      content: "✔";
+      color: var(--accent-color);
+      position: absolute;
+      left: 0;
+    }
+
+    p {
+      margin: 1rem 0;
+    }
+
+    strong {
+      color: var(--accent-color);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Building the Future of Digital Real Estate with Xcavate</h1>
+  </header>
+
+  <section>
+    <p>
+      Real estate is one of the most valuable asset classes, yet it has remained
+      inaccessible, illiquid, and complex for too many people.
+      <strong>Xcavate</strong> is changing that.
+    </p>
+
+    <p>
+      Through <strong>blockchain technology</strong> and
+      <strong>asset tokenization</strong>, Xcavate makes ownership
+      transparent, inclusive, and efficient.
+    </p>
+
+    <h2>Why Tokenized Real Estate Matters</h2>
+
+    <p>
+      Tokenization allows real estate to be divided into smaller digital units,
+      enabling fractional ownership. This opens the door for a new generation
+      of investors, removes unnecessary intermediaries, and brings liquidity
+      to a traditionally rigid market.
+    </p>
+
+    <ul>
+      <li>Increased accessibility to real estate investment</li>
+      <li>Transparent and secure ownership on the blockchain</li>
+      <li>Global participation without traditional barriers</li>
+      <li>Education-first approach for long-term adoption</li>
+    </ul>
+
+    <h2>Xcavate: More Than Real Estate</h2>
+
+    <p>
+      What sets Xcavate apart is its strong commitment to
+      <strong>education</strong> and <strong>community building</strong>.
+      Platforms like RealXEducation empower people with knowledge while
+      delivering innovative technology.
+    </p>
+
+    <h2>My Role as an Xcavate Ambassador</h2>
+
+    <p>
+      As an <strong>Xcavate Ambassador</strong>, I am proud to support
+      a project that combines innovation, transparency, and real-world impact.
+      I strongly believe in making digital real estate understandable,
+      accessible, and meaningful for everyone.
+    </p>
+
+    <h3>Together, we are building the future of tokenized real estate.</h3>
+  </section>
+
+</body>
+</html>
