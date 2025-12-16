@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>New Week – Xcavate</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: linear-gradient(135deg, #0f172a, #020617);
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 30px;
+            max-width: 600px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #38bdf8; /* bleu proche de l'identité Xcavate */
+            margin-bottom: 16px;
+        }
+
+        p {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .signature {
+            font-weight: bold;
+            color: #22c55e;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Nouvelle semaine 🚀</h1>
+        <p>
+            Une nouvelle semaine est toujours l'occasion de se recentrer et de construire avec intention.
+            J'apprécie cette énergie et le rappel que chaque contribution compte.
+            Restons alignés et continuons à faire progresser Xcavate ensemble.
+        </p>
+        <p class="signature">
+            Excellente semaine à tous 💙
+        </p>
+    </div>
+</body>
+</html>
