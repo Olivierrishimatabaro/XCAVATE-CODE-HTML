@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xcavate – The Future of Digital Real Estate</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1e3a8a;
+        }
+        h3 {
+            color: #374151;
+        }
+        p {
+            line-height: 1.6;
+            color: #333;
+        }
+        .highlight {
+            background: #eef2ff;
+            padding: 18px;
+            border-left: 5px solid #1e3a8a;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Xcavate</h1>
+        <h3>Leading Digital Real Estate on Cardano</h3>
+
+        <p>
+            Xcavate is positioning itself as one of the strongest real estate
+            platforms in the Cardano ecosystem. By combining blockchain technology
+            with real-world assets, Xcavate is redefining how property ownership
+            and investment work in a decentralized way.
+        </p>
+
+        <p>
+            Through real estate tokenization, Xcavate enables transparency,
+            accessibility, and global participation in property markets that were
+            once limited to a few.
+        </p>
+
+        <div class="highlight">
+            <p>
+                <strong>Why Xcavate stands out:</strong><br>
+                ✔ Focused on real-world real estate use cases<br>
+                ✔ Built on Cardano for security and sustainability<br>
+                ✔ Strong community and education-driven approach<br>
+                ✔ Long-term vision for digital property ownership
+            </p>
+        </div>
+
+        <p>
+            As the platform continues to grow, the community is eagerly awaiting
+            the official launch of the <strong>XCAV token</strong>, which will play
+            a key role in governance, participation, and value creation within
+            the Xcavate ecosystem.
+        </p>
+
+        <p>
+            The future of real estate is digital — and Xcavate is building it.
+        </p>
+    </div>
+
+</body>
+</html>
